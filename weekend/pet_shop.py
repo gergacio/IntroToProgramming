@@ -48,9 +48,6 @@ def customer_can_afford_pet(customer, new_pet):
 
 
 def sell_pet_to_customer(pet_shop, pet, customer):
-  if customer["name"] == "Dave":
-    customer["name"] 
-      
   for p in pet_shop["pets"]:
         if p["name"] == pet["name"] and customer["cash"] >= pet["price"]:
             #update customer cash
