@@ -1,4 +1,5 @@
-# codeclan_homework_week_1
+# Intro to Programming using Python
+#
 #### Day 1
 - Induction
 - Terminal
